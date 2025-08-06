@@ -34,7 +34,7 @@ This project focuses on grouping customers of a retail store based on their purc
 - Built a prediction function that can assign a new customer to a suitable group.
 - Centroids revealed clear differences between customer types (e.g., high spenders, low spenders, moderate-income groups, etc.).
 
-## 🎯 What I Learned
+## What I Learned
 
 - How unsupervised learning works in real-world scenarios.
 - The importance of feature scaling in clustering.
