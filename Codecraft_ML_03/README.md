@@ -23,7 +23,7 @@ It works by finding the optimal hyperplane that best separates the data into dif
 
 ---
 
-## ⚙️ Tools & Frameworks Used
+##  Tools & Frameworks Used
 
 - **Python** – Core programming language.
 - **PyTorch** – For building DataLoaders and handling image data efficiently.
@@ -32,13 +32,15 @@ It works by finding the optimal hyperplane that best separates the data into dif
 - **Matplotlib / Seaborn** – For data visualization.
 
 
->PyTorch made handling image datasets and DataLoaders efficient. 
+>PyTorch made handling image datasets and DataLoaders efficient.
+> 
 >scikit-learn provides built-in tools for building and evaluating SVM models. 
+>
 >Pretrained models like VGG16 saved training time and ensure better performance by extracting useful features.
 
 ---
 
-## 📈 Result
+## Result
 
 - **Accuracy**: ~98%
 - **Precision/Recall/F1**: All ~0.98 for both classes.
@@ -46,7 +48,7 @@ It works by finding the optimal hyperplane that best separates the data into dif
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - How to process and load image datasets in PyTorch.
 - How to use a pretrained CNN model for feature extraction.
